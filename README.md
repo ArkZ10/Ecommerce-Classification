@@ -50,4 +50,4 @@ Libraries: pandas, numpy, tensorflow, keras, sklearn, nltk, seaborn, matplotlib
 
 ## Author
 
-[Yeftha Joshua](https://github.com/ArkZ10)
+[Yeftha Joshua Ezekiel](https://github.com/ArkZ10)
